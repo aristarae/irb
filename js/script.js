@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('article').hide();
-    $('#welcome).show();
+    $('#welcome').show();
 
 	$('.btn').click(function() {
 		$('article').hide();
